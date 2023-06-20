@@ -1,0 +1,62 @@
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\bin\Debug\MidtermProject.exe.config
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\bin\Debug\MidtermProject.exe
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\bin\Debug\MidtermProject.pdb
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.csproj.AssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.LoginPage.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.Properties.Resources.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.exe
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.pdb
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.ConsumerFactory.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.ProducerFactory.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.SignUp.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.Warehouses.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.FactoriesList.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.WarehousesLoginPage.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.WarehousesSignUpPage.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.WarehouseManagement.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.ViewHelp.resources
+C:\Users\kubra\OneDrive\Masaüstü\MidtermProject\obj\Debug\MidtermProject.TipsAndTricks.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\MidtermProject.exe.config
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\MidtermProject.exe
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\MidtermProject.pdb
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Buffers.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Memory.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.ValueTuple.dll
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Buffers.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Memory.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\bin\Debug\System.ValueTuple.xml
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.csproj.AssemblyReference.cache
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.ConsumerFactory.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.FactoriesList.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.LoginPage.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.ProducerFactory.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.Properties.Resources.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.SignUp.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.TipsAndTricks.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.ViewHelp.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.WarehouseManagement.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.Warehouses.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.WarehousesLoginPage.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.WarehousesSignUpPage.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.csproj.GenerateResource.cache
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.csproj.CoreCompileInputs.cache
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.csproj.CopyComplete
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.exe
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.pdb
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.Expedition_factory.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.Expedition_wh.resources
+C:\Users\kubra\Desktop\KÜBRA YEŞİLKAYA 190706006 SE 374 01 Visual Programming MIDTERM PROJECT\MidtermProject\obj\Debug\MidtermProject.ReportingScreen_ToProducts.resources
