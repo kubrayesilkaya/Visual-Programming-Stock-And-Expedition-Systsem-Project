@@ -26,8 +26,7 @@ A filtering feature has been implemented in the report page to allow requests to
 
 When a consumer enters a request and presses the button at the factory, a unique request number is assigned to that request and shown to the user.
 
-![consumer](https://github.com/kubrayesilkaya/Visual-Programming-Stock-And-Expedition-Systsem-Project/assets/93487264/1482a174-0c28-48eb-bcca-d4b92218e654)
-
+![consumer](https://github.com/kubrayesilkaya/Visual-Programming-Stock-And-Expedition-Systsem-Project/assets/93487264/98741484-cd21-4a16-8205-49a8ee3bd105)
 
 
 The factory can obtain information about the request by entering the request number.
